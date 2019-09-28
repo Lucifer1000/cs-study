@@ -1,4 +1,4 @@
-# Lucifer1000's tech blog
+# Computer Science Tech Blog
 
 ### § Architecture Styles
 * [micro service architecture (MSA)](msa.md)
