@@ -1,2 +1,2 @@
 # cs-study
-github pages for self development
+tech blog for self development
