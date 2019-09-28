@@ -1,4 +1,2 @@
-# Computer Science Tech Blog
-
-### § Architecture Styles
+# § Architecture Styles
 * [micro service architecture (MSA)](msa.md)
