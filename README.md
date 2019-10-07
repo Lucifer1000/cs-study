@@ -1,3 +1,6 @@
+# § OOAD
+# § Design Principles & Patterns
+  * [proxy pattern](design_pattern/proxy/proxy_pattern.md)
 # § Architecture Styles
 * data flow architecture style
   * batch sequential
