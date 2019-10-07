@@ -19,7 +19,7 @@
   * client-server
   * multi-tiers
   * p2p
-  * proxy
+  * [proxy](architectures/proxy/proxy_as.md)
   * dispatcher (load balancer)
   * message broker
   * broker
