@@ -10,6 +10,8 @@
   * fault(오류) vs failure(장애)
 
 * Tactics
+  * ![tactics](05fig03.gif)
+  * ![tactics2](software-architecture-in-practice-chapter-5-8-638.jpg)
     * Fault Detection
       - ping & echo
       - heartbeat

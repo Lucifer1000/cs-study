@@ -34,4 +34,4 @@
 
 # § Quality Attribute
 * [품질 모델](quality_attributes/quality_attributes.md)
-* [availability](quality_attributes/availability.md)
+* [availability](quality_attributes/availability/availability.md)
