@@ -1,3 +1,5 @@
+[TOC]
+
 # § OOAD
 # § Design Principles & Patterns
   * Creational
