@@ -1,38 +1,82 @@
 # § OOAD
 # § Design Principles & Patterns
-  * [proxy pattern](design_pattern/proxy/proxy_pattern.md)
+  * Creational
+    * factory method (class level)
+    * abstract factory
+    * builder patern
+    * prototype
+    * singleton
+  * structural
+    * adapter pattern(class/object level)
+    * bridge pattern
+    * composite pattern
+    * decorator pattern
+    * facade pattern
+    * flyweight pattern
+    * [proxy pattern](design_pattern/proxy/proxy_pattern.md)
+  * behavioral
+    * interpreter
+    * template method pattern
+    * CoR
+    * Command
+    * [iterator pattern](design_pattern/iterator/iterator.md)
+    * mediator pattern
+    * memento
+    * observer
+    * state
+    * strategy pattern
+    * visitor
+  
+  
 # § Architecture Styles
 * data flow architecture style
   * batch sequential
   * pipe and filter
   * process control
 * data-centered architecture style
-  * repository
+  * shared repository
+  * active repository
   * blackboard
-* hierarchical architecture style
-  * master-slave
+* hierarchical architecture style (layered style)
   * layered
-  * virtual machine
-  * plug-in
-  * microkernel
-* [implicit asynchronous communication architecture style](architectures/implicit_async_communication/implicit_asynchronous_communication_as.md)
-  * non-buffered event-based implicit invocations
-  * buffered-message-based
-* distributed architecture
+  * mvc
+  * pac
+* tiered systems
   * client-server
-  * multi-tiers
-  * p2p
-  * [proxy](architectures/proxy/proxy_as.md)
-  * dispatcher (load balancer)
-  * message broker
+  * multi-tiers (N-tier) architecture style
+  * p2p(peer to peer)
+* load-balancing systems
   * broker
+  * dispatcher (load balancer)
+  * master-slave
+  * edge-based architecture style
+* service based systems
   * service-oriented architecture (SOA)
-  * XML-based web service
   * [micro service architecture (MSA)](architectures/microservice/msa.md)
-  * restful
+* (정리필요)[implicit asynchronous communication architecture style](architectures/implicit_async_communication/implicit_asynchronous_communication_as.md)
+  * event-based systems
+    * buffered-message-based
+      * publish and subscibe architecture style (message topic, one to many)
+      * point to point messaging (message queue, one to one)
+    * non-buffered event-based implicit invocations ≒ observer
+    * event-driven architecture style
+    * sensor controller actuator architecture style  
+* adaptive systems
+  * blackboard
+  * microkernel
+* other styles
+  * variations of MVC architecture style
+  * reflection architecture style
 * interaction-oriented software architecture
   * mvc (module view controller)
   * pac (presentation-abstraction-control)
+* others
+  * virtual machine
+  * plug-in
+  * [proxy](architectures/proxy/proxy_as.md)
+  * message broker
+  * XML-based web service
+  * restful
 
 
 # § Quality Attribute
