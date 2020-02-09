@@ -1,8 +1,9 @@
 # Table of Contents
-[OOAD](#%c2%a7-ooad)</br>
-[Design Principles & Patterns](#%c2%a7-design-principles--patterns)</br>
-[Architecture Styles](#%c2%a7-architecture-styles)</br>
-[Quality Attribute](#%c2%a7-quality-attribute)</br>
+- [Table of Contents](#table-of-contents)
+- [§ OOAD](#%c2%a7-ooad)
+- [§ Design Principles & Patterns](#%c2%a7-design-principles--patterns)
+- [§ Architecture Styles](#%c2%a7-architecture-styles)
+- [§ Quality Attribute](#%c2%a7-quality-attribute)
 
 # § OOAD
 # § Design Principles & Patterns
