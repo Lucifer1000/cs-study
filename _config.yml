@@ -27,13 +27,13 @@ title                    : "Imreplay blog" # 블로그 제목
 title_separator          : "-" # 글 제목 - 블로그 제목  과 같이 사이트를 표시해줍니다.
 name                     : "Imreplay" # 사이트 소유자의 이름을 사용합니다.(Used to assign a site author.)
 description              : "Imreplay's personal website." # 사이트에 대한 간단한 설명입니다.
-url                      : "https://blog.imreplay.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lucifer1000.github.io/cs-study/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # 사이트의 주소를 입력합니다.
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # 사이트의 baseurl을 설정해 줍니다.
 
-repository               : "imreplay/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Lucifer1000/cs-study" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200 #read time을 계산하기 위한 분당 읽는 글자수 입니다. 
@@ -116,20 +116,20 @@ analytics:
 # 사이트 소유자에 대한 정보를 작성합니다.
 # Site Author
 author:
-  name             : "Imreplay"
+  name             : "Lucifer1000"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "천천히 굴러가는 개인 공부 블로그"
+  bio              : "computer science tech blog for self development"
   location         : "Republic of Korea"
-  email            : "imreplay@imreplay.xyz"
-  uri              : "https://blog.imreplay.xyz"
+  email            : 
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "imreplay08"
+  facebook         : 
   foursquare       :
-  github           : "imreplay"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
@@ -318,5 +318,5 @@ repo: blog # Github repo name
 branch: master # 작업 브랜치를 설정
 relative_source: ../blog/ # 저는 repo 이름으로 설정했습니다.
 destination: ../posts # 빌드시 작업파일이 저장될 경로
-production_url:  https://blog.imreplay.xyz # 사이트 URL
-source_url:  https://github.com/imreplay/blog/ # Github 저장소 URL
+production_url:  https://lucifer1000.github.io/cs-study/ # 사이트 URL
+source_url:  https://www.github.com/cs-study/ # Github 저장소 URL
